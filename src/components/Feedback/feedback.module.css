@@ -1,0 +1,23 @@
+.container {
+  margin-left: 20px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.button:hover {
+  background-color: aqua;
+  box-shadow: 2px 6px 8px rgba(4, 4, 4, 0.9);
+}
